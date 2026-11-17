@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "title": "Book launch ad",
+  "cat": "Promotional Videos",
+  "role": "- Idea - Motion designer - Design edits - Voiceover - Research",
+  "tools": "Adobe After Effects and Claude",
+  "desc": "This was a promotional ad I have used for my own book launch.",
+  "appr": "The creative approach behind this was just to showcase why I have written my book.",
+  "cred": "AB26",
+  "client": "",
+  "vurl": "",
+  "vfile": "media/book-launch-ad-mwkqbbvt.mp4",
+  "arm": "",
+  "feat": true,
+  "ar": 0.5625,
+  "thumb": "media/vmwkqbbvs17g-thumb-mwkqbrps.jpg",
+  "id": "vmwkqbbvs17g",
+  "order": 1
+ }
+]
