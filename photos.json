@@ -12,16 +12,16 @@
   "cap": "A smiling child looking out of a car window, hands on the frame."
  },
  {
-  "id": "b2",
-  "src": "p03.jpg",
-  "tone": "c",
-  "cap": "A fruit seller framed in the window of his stall, surrounded by pears and other fruit."
- },
- {
   "id": "b1",
   "src": "p02.jpg",
   "tone": "c",
   "cap": "Sunlight breaking through tall trees over an old wooden house on a green hillside."
+ },
+ {
+  "id": "b2",
+  "src": "p03.jpg",
+  "tone": "c",
+  "cap": "A fruit seller framed in the window of his stall, surrounded by pears and other fruit."
  },
  {
   "id": "b4",
